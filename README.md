@@ -8,6 +8,9 @@ O Akka é uma biblioteca de código aberto que ajuda a desenvolver facilmente ap
 
 
 (1) Introduction to Akka Actors in Java | Baeldung. https://www.baeldung.com/akka-actors-java.
+
 (2) Akka: Programação concorrente - DevMedia. https://www.devmedia.com.br/akka-programacao-concorrente/30714.
+
 (3) Akka Actors Quickstart with Java · Lightbend Tech Hub. https://developer.lightbend.com/guides/akka-quickstart-java/index.html.
+
 (4) Akka por ejemplos | Lógica Alternativa. https://www.logicaalternativa.com/akka-por-ejemplos/.
