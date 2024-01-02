@@ -5,6 +5,8 @@ O Akka é uma biblioteca de código aberto que ajuda a desenvolver facilmente ap
 - **Concorrência**: Com o Akka, todas as palavras-chave de concorrência, como threads, pools, locks, etc., deixam de fazer sentido¹. Assim, nos concentramos apenas na estruturação da nossa aplicação em atores e na lógica de negócio de cada ator¹.
 
 - **Vantagens**: Desenvolver aplicações concorrentes é difícil porque precisamos lidar com sincronização, locks e memória compartilhada. Ao usar atores Akka, podemos escrever facilmente código assíncrono sem a necessidade de locks e sincronização². Uma das vantagens de usar mensagens em vez de chamadas de método é que a thread do remetente não bloqueará para esperar um valor de retorno quando enviar uma mensagem para outro ator².
+
+
 (1) Introduction to Akka Actors in Java | Baeldung. https://www.baeldung.com/akka-actors-java.
 (2) Akka: Programação concorrente - DevMedia. https://www.devmedia.com.br/akka-programacao-concorrente/30714.
 (3) Akka Actors Quickstart with Java · Lightbend Tech Hub. https://developer.lightbend.com/guides/akka-quickstart-java/index.html.
